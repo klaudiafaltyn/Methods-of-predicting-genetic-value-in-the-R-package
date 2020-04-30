@@ -1,8 +1,6 @@
 # Methods of predicting genetic value in the R package
-### Metody predykcji wartości genetycznej w pakiecie R
+## Metody predykcji wartości genetycznej w pakiecie R
 
-
-# Elements of statistical data modelling
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
